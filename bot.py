@@ -18,7 +18,7 @@ import os
 from typing import List, Optional, Dict, Any, Tuple
 from threading import Lock
 
-import psycopg2
+import psycopg
 
 from telegram import (
     Update,
